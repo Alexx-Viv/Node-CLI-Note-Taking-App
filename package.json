@@ -16,9 +16,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App/issues"
   },
-  "homepage": "https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App#readme"
+  "homepage": "https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
