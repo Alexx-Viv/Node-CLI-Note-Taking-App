@@ -1,0 +1,24 @@
+{
+  "name": "node-cli-note-taking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App/issues"
+  },
+  "homepage": "https://github.com/Alexx-Viv/Node-CLI-Note-Taking-App#readme"
+}
