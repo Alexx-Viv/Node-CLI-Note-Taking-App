@@ -1,3 +1,12 @@
 {
-    "notes" : []
+  "notes": [
+    {
+      "tags": [
+        "car",
+        "work"
+      ],
+      "id": 1762288665729,
+      "content": "my new note"
+    }
+  ]
 }
